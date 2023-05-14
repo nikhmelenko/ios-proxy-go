@@ -1,7 +1,7 @@
 # Proxy Web App 
 ## IOS test task
 
-Built on [Go](https://go.dev/)
+Built on [Go](https://go.dev/) and [Gin](https://gin-gonic.com/)
 
 ## Features
 
